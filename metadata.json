@@ -1,0 +1,6 @@
+{
+  "name": "Obstetrics Practical Course Hub",
+  "description": "An interactive, highly organized clinical learning platform and OSCE exam preparation course for Obstetrics, based on practical sheets, instruments, emergency drugs, and doctor-specific focus areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
